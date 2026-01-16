@@ -28,16 +28,16 @@ The pipeline integrates four key components:
 
 ## Key Features
 
-- ✅ **Multilingual Support** - English, Spanish, French, Hindi, Chinese, Arabic
-- ✅ **Code-Switching Detection** - Handles alternating languages within discourse
-- ✅ **Real-Time Processing** - End-to-end latency 2.4s - 3.5s
-- ✅ **WebVTT Compatible** - Standard format for web platform integration
-- ✅ **Context-Aware Translation** - Maintains terminology consistency
-- ✅ **Evaluation Framework** - BLEU scores and latency analysis
+- **Multilingual Support** - English, Spanish, French, Hindi, Chinese, Arabic
+- **Code-Switching Detection** - Handles alternating languages within discourse
+- **Real-Time Processing** - End-to-end latency 2.4s - 3.5s
+- **WebVTT Compatible** - Standard format for web platform integration
+- **Context-Aware Translation** - Maintains terminology consistency
+- **Evaluation Framework** - BLEU scores and latency analysis
 
 ## Interactive Demo
 
-🚀 **[Open Interactive Notebook in Google Colab](https://colab.research.google.com/github/colabre2020/multilingual-captioning/blob/main/Multilingual_Captioning_Demo.ipynb)**
+**[Open Interactive Notebook in Google Colab](https://colab.research.google.com/github/colabre2020/multilingual-captioning/blob/main/Multilingual_Captioning_Demo.ipynb)**
 
 The Colab notebook provides a complete implementation including:
 - ASR pipeline setup
@@ -84,9 +84,9 @@ jupyter notebook Multilingual_Captioning_Demo.ipynb
 - Within real-time threshold: **~85%** of segments
 
 ### Code-Switching
-- ✓ Successfully handles English-Spanish code-switching
-- ✓ Maintains contextual coherence across language boundaries
-- ⚠️ Rapid transitions (multiple per sentence) require refinement
+- Successfully handles English-Spanish code-switching
+- Maintains contextual coherence across language boundaries
+- Rapid transitions (multiple per sentence) require further refinement
 
 ## Repository Structure
 
@@ -105,10 +105,10 @@ multilingual-captioning/
 
 This implementation has been tested and optimized for multiple hardware accelerators:
 
-- ✅ **Google Cloud TPU** - Optimal for Colab TPU runtime
-- ✅ **NVIDIA GPU (CUDA)** - Tested on various CUDA-enabled GPUs
-- ✅ **Apple Silicon (M1/M2/M3)** - Native MPS acceleration support
-- ✅ **CPU Fallback** - Works on any system (slower performance)
+- **Google Cloud TPU** - Optimal for Colab TPU runtime
+- **NVIDIA GPU (CUDA)** - Tested on various CUDA-enabled GPUs
+- **Apple Silicon (M1/M2/M3)** - Native MPS acceleration support
+- **CPU Fallback** - Works on any system (slower performance)
 
 The notebook automatically detects and configures the best available accelerator. For optimal real-time performance, we recommend:
 - Google Colab with T4 GPU or TPU v2
