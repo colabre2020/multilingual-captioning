@@ -191,7 +191,7 @@ Institution: University of New Haven
 **Web4All 2026**  
 23rd International Web for All Conference  
 April 13-14, 2026  
-Sydney, Australia  
+Dubai, UAE  
 [https://www.w4a.info/2026/](https://www.w4a.info/2026/)
 
 ## License
