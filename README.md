@@ -6,7 +6,7 @@
 **Authors:** Bhumika Shah, Satya Narayana Panda
 
 **Conference:** Web4All 2026 - 23rd International Web for All Conference  
-**Location:** Sydney, Australia  
+**Location:**  Dubai, UAE  
 **Date:** April 13-14, 2026
 
 ---
