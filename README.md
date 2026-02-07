@@ -158,7 +158,7 @@ If you use this code or build upon this work, please cite:
   author={Shah, Bhumika and Panda, Satya Narayana},
   booktitle={Proceedings of the 23rd International Web for All Conference},
   year={2026},
-  location={Sydney, Australia},
+  location={Dubai, UAE},
   series={Web4All '26}
 }
 ```
