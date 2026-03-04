@@ -6,8 +6,7 @@
 **Authors:** Bhumika Shah, Satya Narayana Panda
 
 **Conference:** Web4All 2026 - 23rd International Web for All Conference  
-**Location:**  Dubai, UAE  
-**Date:** April 13-14, 2026
+** Springer Submission***
 
 ---
 
@@ -158,8 +157,7 @@ If you use this code or build upon this work, please cite:
   author={Shah, Bhumika and Panda, Satya Narayana},
   booktitle={Proceedings of the 23rd International Web for All Conference},
   year={2026},
-  location={Dubai, UAE},
-  series={Web4All '26}
+  
 }
 ```
 
@@ -190,8 +188,7 @@ Institution: University of New Haven
 
 **Web4All 2026**  
 23rd International Web for All Conference  
-April 13-14, 2026  
-Dubai, UAE  
+April 13-14, 2026   
 [https://www.w4a.info/2026/](https://www.w4a.info/2026/)
 
 ## License
