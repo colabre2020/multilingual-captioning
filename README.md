@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colabre2020/multilingual-captioning/blob/main/Multilingual_Captioning_Demo.ipynb)
 [![Paper](https://img.shields.io/badge/Paper-Web4All%202026-blue)](https://www.w4a.info/2026/)
 
-**Authors:** Bhumika Shah, Satya Narayana Panda
+**Authors:** Dr.Bhumika Shah, Satya Narayana Panda
 
 ---
 
