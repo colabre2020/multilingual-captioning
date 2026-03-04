@@ -5,9 +5,6 @@
 
 **Authors:** Bhumika Shah, Satya Narayana Panda
 
-**Conference:** Web4All 2026 - 23rd International Web for All Conference  
-** Springer Submission***
-
 ---
 
 ## Overview
